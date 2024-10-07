@@ -1,0 +1,24 @@
+h1{
+    font-family: "Roboto Slab", serif;
+    font-optical-sizing: auto;
+}
+.carousel-item{
+    margin-top: 20px;
+}
+.imagenes{
+    border-radius: 5%;
+    width: auto;
+    height: 700px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.fondito{
+    background-color:rgb(205, 210, 224);
+}
+
+.menu{
+    margin: 5px;
+}
